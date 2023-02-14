@@ -1,0 +1,115 @@
+/*****************Tags*****************/
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+div {
+  background-color: rgb(235, 235, 235);
+}
+
+h1 {
+  font-family: "Sacramento", cursive;
+  font-size: 562.5%;
+  margin-top: 70px auto 0 auto ;
+  color: rgb(237, 118, 33);
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: chocolate;
+}
+
+a {
+  color:  rgb(235, 235, 235);
+  font-family: cursive;
+}
+/*****************Class*****************/
+.top {
+  background-color: rgb(87, 135, 183);
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  border: solid 20px;
+  margin-left: 260px;
+  padding: 10px;
+}
+.bottom {
+  height: 200px;
+  width: 200px;
+  background-color: brown;
+  margin-left: 520px;
+  border: solid 10px;
+  padding: 20px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 200px;
+}
+
+.Image{
+ width: 280px;
+ margin-top: 50px;
+}
+
+.designer {
+  color: coral;
+  font-size: 30px;
+  font-family: sans-serif;
+  margin-top: -20px;
+}
+
+.skills-img {
+  width: 150px;
+  float: left;
+  margin: 30px;
+}
+
+.skill-2 {
+  width: 150px;
+  float: right;
+  margin: 30px;
+}
+
+.skill-text {
+  color: chocolate;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.button {
+  background-color: rgb(86, 86, 255);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+font-size: 18px;
+}
+
+.bottom-container {
+  background-color: coral;
+  padding: 30px;
+}
